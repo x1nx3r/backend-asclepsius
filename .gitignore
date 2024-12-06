@@ -1,0 +1,5 @@
+/.env
+/model_dir
+/node_modules
+/SAKey.json
+/uploads
